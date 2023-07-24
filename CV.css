@@ -1,0 +1,78 @@
+header {
+    text-align: center;
+    color: gold;
+    text-transform: uppercase;
+    position: relative;
+    top: 0px;
+    font-size: 50px;
+  }
+
+  .aboutme {
+    position: relative;
+    top: 0px;
+    font-family: 'Varela round', sans-serif;
+    text-align: center;
+    font-size: 38px;
+    color: chocolate;
+  }
+
+
+  .footer {
+    position: relative;
+    bottom: 0px;
+    font-family: 'Varela round', sans-serif;
+    font-size: 30px;
+    color: mintcream;
+  }
+
+  .education {
+    position: relative;
+    top: 0px;
+    font-family: 'Varela round', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: lightseagreen;
+  }
+
+  .Work {
+    position: relative;
+    top: 0px;
+    font-family: 'Varela round', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: linen;
+  }
+
+/* style the top navigation bar*/
+ .TopNav {
+    background-color: none;
+    text-align: center;
+    overflow: hidden;
+
+/* style the topnav links*/
+  }
+    .TopNav a {
+    font-size: 50px;
+    float: left;
+    display: block;
+    color: seashell;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+/* style the colour on hover */
+  }
+  .topnav a:hover {
+    background-color: none;
+    color:moccasin;
+  }
+
+
+ ul {
+    list-style-type: none;
+ }
+
+
+ h2 {
+  color: lemonchiffon;
+ }
