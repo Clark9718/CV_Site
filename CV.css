@@ -16,13 +16,26 @@ header {
     color: chocolate;
   }
 
+  .card {
+    opacity: 80%;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    height: 25%
+  }
+    
+
+  img {
+    float: left;
+  }
 
   .footer {
-    position: relative;
-    bottom: 0px;
+    position: bottom;
     font-family: 'Varela round', sans-serif;
-    font-size: 30px;
-    color: mintcream;
+    font-size: 30px;    
+    color: antiquewhite;
+    padding: 50px;
+    
   }
 
   .education {
