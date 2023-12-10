@@ -23,18 +23,22 @@ header {
     width: 100%;
     height: 25%
   }
+
+
     
 
   img {
     float: left;
   }
 
-  .footer {
-    position: bottom;
-    font-family: 'Varela round', sans-serif;
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /*font-family: 'Varela round', sans-serif;*/
     font-size: 30px;    
-    color: antiquewhite;
-    padding: 50px;
+    /*color: antiquewhite;*/
     
   }
 
@@ -89,3 +93,5 @@ header {
  h2 {
   color: lemonchiffon;
  }
+
+ 
